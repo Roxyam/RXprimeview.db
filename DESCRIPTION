@@ -13,3 +13,5 @@ manufacturer: Affymetrix
 chipName: PrimeView
 manufacturerUrl: http://www.affymetrix.com
 biocViews: ChipDb, AnnotationData, AffymetrixChip, Homo_sapiens, RXprimeview
+URL: https://github.com/Roxyam/RXprimeview.db
+BugReports: https://github.com/Roxyam/RXprimeview.db/issues
